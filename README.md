@@ -27,7 +27,7 @@ Remote (Jenkins)
 Deploy locally
 * Clone repo `git clone https://github.com/swerenfl/www-xxyyzz`
 * Run `firebase init` and follow prompts
- * NOTE: Must be able to authenicate to the project in Firebase
+    * NOTE: Must be able to authenicate to the project in Firebase
 * Make changes and save locally
 * Run `firebase deploy`
 
